@@ -1,5 +1,5 @@
-name: NodeJS CI Pipeline
-run-name: ${{ github.actor }} is running the NodeJS CI Pipeline 🚀
+name: Python CI Pipeline
+run-name: ${{ github.actor }} is running the Python CI Pipeline 🚀
 on: workflow_dispatch
 jobs:
   build-push-dockerimage:
